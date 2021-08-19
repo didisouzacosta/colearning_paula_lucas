@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  Colearning
 //
-//  Created by Adriano Souza Costa on 19/08/21.
+//  Created by Lucas Tamagnone on 19/08/21.
 //
 
 import UIKit
